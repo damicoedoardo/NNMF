@@ -1,0 +1,1 @@
+param: user-knn topK=364, shrink=1

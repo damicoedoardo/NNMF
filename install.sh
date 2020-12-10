@@ -1,0 +1,4 @@
+cp -r NearestNeighborMF-data ~/
+
+python setup.py build_ext --inplace
+python setup.py install

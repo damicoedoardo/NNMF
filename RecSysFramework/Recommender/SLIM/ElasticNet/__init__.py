@@ -1,0 +1,1 @@
+from .SLIMElasticNetRecommender import SLIMElasticNet as SLIM

@@ -1,0 +1,2 @@
+params:  latent_factors_initialization={'type': 'RANDOM', 'range': [0, 0.001]}, validation_every_n=20, sgd_mode=adam, lower_validations_allowed=10, validation_metric=MAP, evaluator_object=<RecSysFramework.Evaluation.Evaluator.EvaluatorHoldout object at 0x7fceca95ab70>, stop_on_validation=True, verbose=False, use_bias=False, positive_threshold_BPR=0, epochs=1000,  num_factors=175, batch_size=10000, learning_rate=0.004651, user_reg=0.021663, positive_reg=0.006983, negative_reg=0.002583, epochs=960, 
+conv time: 22 min

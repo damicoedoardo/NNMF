@@ -1,0 +1,7 @@
+params:  binary=False,
+ similarity=cosine,
+ feature_weighting=none,
+ threshold=0,
+  topK=604,
+ shrink=1,
+ 
